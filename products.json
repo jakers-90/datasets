@@ -1,0 +1,167 @@
+[
+    {
+        "Id": "Nikon1",
+        "ProductName": "D500",
+        "GraphicName": "d500.png",
+        "CostPrice": 1880.25,
+        "MSRP": 2299.95,
+        "QtyOnHand": 5,
+        "QtyOnBackOrder": 0,
+        "Description": "Meet the new DX flagship, the Nikon D500. At first glance, it may seem unimposing but contained within a streamlined camera body is a veritable powerhouse of processing power and technological advances. The D500 is ready to go wherever your passion leads you, capturing everything with stunning clarity, speed and resolution. From busy, low-light cityscapes to thrilling wildlife scenes and fast action shots, the D500 is the ideal companion to your wanderlust. Marvel at the clarity of its cinematic 4K UHD video. Be amazed at its ruggedness and versatility. And, once you've captured your gorgeous photos, admire them on the D500's high resolution tilt touchscreen display and share them via the built-in SnapBridge (Wi-Fi + Bluetooth) capabilities. No matter what you shoot, you can be sure that the D500 will be up to the task, time and time again.",
+        "Brand": "Nikon"
+    },
+    {
+        "Id": "Nikon2",
+        "ProductName": "D7500",
+        "GraphicName": "d7500.png",
+        "CostPrice": 900.25,
+        "MSRP": 1399.95,
+        "QtyOnHand": 0,
+        "QtyOnBackOrder": 15,
+        "Description": "Flagship Power, Born from a desire for flagship performance and innovation in a more compact and streamlined connected camera, the D7500 delivers the game-changing resolution, ISO range, image processing and energy efficiency of the award-winning D500 in an enthusiast-level DSLR. Simply put, the D7500 is built to outperform any camera in its class with top-tier image quality, blazing speed, flawless autofocus, 4K Ultra HD video and pro-grade creative tools all in a comfortable, rugged design. This is a camera for the new generation of creators.",
+        "Brand": "Nikon"
+    },
+    {
+        "Id": "Nikon3",
+        "ProductName": "D5600",
+        "GraphicName": "d5600.png",
+        "CostPrice": 526.25,
+        "MSRP": 919.95,
+        "QtyOnHand": 10,
+        "QtyOnBackOrder": 2,
+        "Description": "Stand out from the crowd with photos and videos so impressive, they'll inspire you to keep shooting and learning. Out of the box, you can leave things up to the camera and immediately start taking great photos and videos without the learning curve. As your skills develop, the D5600 offers plenty of room to grow with exceptional image quality, intuitive controls and powerful tools for pushing the boundaries of your creativity as far as they'll bend. Unlike others, with a battery lasting over 970 shots per charge, you'll be able to keep shooting all day long.",
+        "Brand": "Nikon"
+    },
+    {
+        "Id": "Nikon4",
+        "ProductName": "D5300",
+        "GraphicName": "d5300.png",
+        "CostPrice": 400.25,
+        "MSRP": 669.95,
+        "QtyOnHand": 0,
+        "QtyOnBackOrder": 0,
+        "Description": "Meet the first in an exciting new generation of Wi-Fi enabled, ultra-high-resolution Nikon HD-SLRs: the D5300. With built-in Wi-Fi for photo sharing to your smartphone or tablet, GPS and mapping, a cutting edge 24.2-megapixel image sensor, an extra-large swiveling Vari-angle LCD and more, D5300 brings an outstanding new level of image quality and capabilities in a compact, ergonomic design. Pair it with any NIKKOR lens like the outstanding AF-S DX NIKKOR 18-140mm f/3.5-5.6G ED VR kit lens and unleash the full potential of its innovative image sensor. Your photos will be richer, truer to life than most photos you've seen. HD video will have a stunning cinematic look, a level of sharpness and clarity that ignites on ultra-high-resolution tablets, laptops and TVs. And the first time you use your smartphone or tablet to instantly share photos from the D5300, you'll realize the game has truly changed. The sharpness, clarity and richness of colours in the D5300's photos and Full HD videos is nothing short of astounding. A recent design innovation allows the D5300's 24.2-megapixel DX format CMOS image sensor* to capture the purest, most lifelike images possible. Enlarge or crop your photos without losing any sharpness or detail a feat not possible with most smartphones and lesser cameras. Pair that capability with any exceptional NIKKOR lens, marvels of clarity and sharpness in their own right, and you'll experience the image quality your memories deserve.",
+        "Brand": "Nikon"
+    },
+    {
+        "Id": "Nikon5",
+        "ProductName": "D3500",
+        "GraphicName": "d3500.png",
+        "CostPrice": 1880.25,
+        "MSRP": 2299.95,
+        "QtyOnHand": 5,
+        "QtyOnBackOrder": 0,
+        "Description": "You don't need to be a photographer to know a great photo when you see one. And you don't need to be a photographer to take a great photo you just need the D3500. It's as easy to use as a point-and-shoot, but it takes beautiful DSLR photos and videos that get noticed. It feels outstanding in your hands, sturdy and balanced with controls where you want them. It's compact, durable and versatile, ideal for travel. And it works seamlessly with compatible smartphones, making it easier than ever to share your great photos. Even if you've never picked up a DSLR camera, you can take beautiful pictures with D3500.",
+        "Brand": "Nikon"
+    },
+    {
+        "Id": "Canon1",
+        "ProductName": "EOS Rebel SL3",
+        "GraphicName": "EOSSL3.png",
+        "CostPrice": 650.55,
+        "MSRP": 899.99,
+        "QtyOnHand": 2,
+        "QtyOnBackOrder": 0,
+        "Description": "Whether you're a first time SLR user, an aspiring photo enthusiast, or someone looking to capture those amazing family moments, the Canon EOS Rebel SL3 can be the perfect companion. It's the smallest and lightest EOS DSLR camera to date*, and is equipped with 4K recording capability, Canons Dual Pixel CMOS AF, and a vari-angle LCD for selfies and fun angles. Its 24.1 Megapixel (APS-C) CMOS Sensor combines with the powerful DIGIC 8 Processor for amazing performance and results, and the EOS Rebel SL3 even lets you channel your creativity with options like 4K Time-lapse movies and Creative Assist. Wherever you are and wherever you go, the EOS Rebel SL3 camera makes it simple to capture stunning photos and videos to view and share.",
+        "Brand": "Canon"
+    },
+    {
+        "Id": "Canon2",
+        "ProductName": "EOS Rebel T100",
+        "GraphicName": "EOST100.png",
+        "CostPrice": 200.25,
+        "MSRP": 379.99,
+        "QtyOnHand": 3,
+        "QtyOnBackOrder": 18,
+        "Description": "Creating distinctive stories with DSLR quality photos and Full HD movies is easier than you think with the 18 Megapixel EOS Rebel T100. Share instantly and shoot remotely via your compatible smartphone with Wi-Fi* and the Canon Camera Connect app.",
+        "Brand": "Canon"
+    },
+    {
+        "Id": "Canon3",
+        "ProductName": "EOS 90D",
+        "GraphicName": "EOS90D.png",
+        "CostPrice": 1000.78,
+        "MSRP": 1499.99,
+        "QtyOnHand": 1,
+        "QtyOnBackOrder": 7,
+        "Description": "Fast. Versatile. Impressive. Whether capturing high-speed sporting events or simple, everyday moments, the EOS 90D camera is engineered to deliver impressive results. Equipped with an enhanced 32.5 Megapixel CMOS (APS-C) sensor, powerful DIGIC 8 image processor and an ISO range of 100-25000 (expandable to 51200), you'll achieve sharp, detailed images, even in low-light settings. Perfect for fast-moving subjects, the EOS 90D camera features a 45-point cross-type AF system* and EOS iTR AF (face detection) plus high-speed continuous shooting of up to 10 fps raising the game for wildlife and motor sports photography enthusiasts. And with stunning uncropped 4K 30p video capability, the EOS 90D documents your travels, events and other milestones in full, wide-angle view . No matter where your photography ventures take you, the EOS 90D proves to be the versatile, all-around SLR camera you didn't know you were missing. * The number of AF points, cross-type AF points and Dual cross-type AF points vary depending on the lens used.",
+        "Brand": "Canon"
+    },
+    {
+        "Id": "Canon4",
+        "ProductName": "EOS 6D Mark II",
+        "GraphicName": "EOS6D.png",
+        "CostPrice": 1385.25,
+        "MSRP": 1699.99,
+        "QtyOnHand": 3,
+        "QtyOnBackOrder": 0,
+        "Description": "The World's Lightest 35mm Full-Frame DSLR*. For superb performance on the go, the Canon EOS 6D Mark II camera puts full-frame performance into a compact, fully featured DSLR. Its 26.2 Megapixel CMOS sensor and DIGIC 7 Image Processor help deliver amazing results even at expanded ISO settings, making it great for challenging low-light situations as well as landscape, portrait and event photography. The EOS 6D Mark II also features an impressive optical viewfinder with 45 all cross-type AF points*, fast and accurate Dual Pixel CMOS AF and a Vari-angle Touch Screen LCD for Live View operation which helps create unique angles. With the EOS 6D Mark II's speed to capture action and the versatility to create phenomenal photographs and Full HD 60p videos in numerous environments and lighting situations, the camera offers creative content makers a winning combination of advanced features in a portable package that's as fun as it is powerful. * The number of AF points, cross-type AF points and Dual cross-type AF points vary depending on the lens used.",
+        "Brand": "Canon"
+    },
+    {
+        "Id": "Canon5",
+        "ProductName": "EOS Rebel T8i",
+        "GraphicName": "EOST8i.png",
+        "CostPrice": 1000.25,
+        "MSRP": 1399.99,
+        "QtyOnHand": 2,
+        "QtyOnBackOrder": 1,
+        "Description": "The EOS Rebel T8i is the ideal introduction to an interchangeable lens camera, or for those looking for an affordable upgrade. Equipped with a 24.1 Megapixel CMOS (APS-C) sensor, DIGIC 8 image processor and an ISO range of 100-25600 (expandable to 51200*), the EOS Rebel T8i is our most advanced EOS Rebel yet, delivering high-quality performance that kicks your photos and videos up a notch. Whether you're capturing simple moments with friends or family, or snapping fast-moving subjects like pets or athletes, maintain smooth and accurate focus with the cameras high-speed continuous shooting of up to 7 frames per second (up to 7.5 fps during Live View shooting). For vloggers or social media aficionados, the EOS Rebel T8i offers 4K 24p video capability and vertical video support, along with built-in Wi-Fi*** and Bluetooth^ technology, making it easy to share everything you capture.",
+        "Brand": "Canon"
+    },
+    {
+        "Id": "Sony1",
+        "ProductName": "a7 II",
+        "GraphicName": "a7II.png",
+        "CostPrice": 1000.25,
+        "MSRP": 1399.99,
+        "QtyOnHand": 2,
+        "QtyOnBackOrder": 1,
+        "Description": "The a7 II is the world's first1 full-frame camera with 5-axis image stabilization and provides camera shake compensation for wide-ranging mountable lenses. Compact and refined for intuitive operation, it offers enhanced Fast Hybrid AF that delivers lightning-fast focusing, super-wide coverage and exceptionally effective tracking of fast-moving subjects.",
+        "Brand": "Sony"
+    },
+    {
+        "Id": "Sony2",
+        "ProductName": "a7S",
+        "GraphicName": "a7S.png",
+        "CostPrice": 1935.25,
+        "MSRP": 2299.99,
+        "QtyOnHand": 1,
+        "QtyOnBackOrder": 0,
+        "Description": "Marvel at the world's first full-frame sensor capable of full pixel readout on 4K video impressively precision-packed in the world's smallest interchangeable lens digital camera.",
+        "Brand": "Sony"
+    },
+    {
+        "Id": "Sony3",
+        "ProductName": "a6100",
+        "GraphicName": "a6100.png",
+        "CostPrice": 589.25,
+        "MSRP": 849.99,
+        "QtyOnHand": 3,
+        "QtyOnBackOrder": 2,
+        "Description": "With its extraordinary AF speed and performance, and persistent subject tracking, the a6100 skillfully handles the mechanics of photography so that you'll be free to concentrate on more creative aspects. It captures split-second action and delivers beautiful images even in difficult settings, for stunning still shots and high-resolution 4K movies.",
+        "Brand": "Sony"
+    },
+    {
+        "Id": "Sony4",
+        "ProductName": "a5100",
+        "GraphicName": "a5100.png",
+        "CostPrice": 280.25,
+        "MSRP": 599.99,
+        "QtyOnHand": 7,
+        "QtyOnBackOrder": 1,
+        "Description": "Advanced yet intuitive focus control gives you class-leading clarity and contrast for stills and movies and means you never have to miss a shot.",
+        "Brand": "Sony"
+    },
+    {
+        "Id": "Sony5",
+        "ProductName": "a3000",
+        "GraphicName": "a3000.png",
+        "CostPrice": 225.25,
+        "MSRP": 399.99,
+        "QtyOnHand": 10,
+        "QtyOnBackOrder": 3,
+        "Description": "The solid and dependable a3000 feels good in your hands and brings out the beauty of every scene with a large 20.1MP Exmor APS-C CMOS sensor and ISO 16000 sensitivity.",
+        "Brand": "Sony"
+    }
+]
